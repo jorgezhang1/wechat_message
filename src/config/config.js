@@ -36,3 +36,4 @@ const listConfig = {
 }
 
 /* 上述代码是需要自定义的配置项 */
+npm satrt
